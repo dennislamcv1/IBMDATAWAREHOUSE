@@ -1,4 +1,4 @@
-# IBM Data Warehouse Engineer Professional Certificate
+# IBM Data Warehouse Engineer Professional Certificate (9 course series)
 
 ## About this Professional Certificate
 
