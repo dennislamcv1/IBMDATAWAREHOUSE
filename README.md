@@ -12,12 +12,3 @@ You will use Linux/UNIX shell scripts to automate repetitive tasks, and build da
 Finally, you will design and populate data warehouse systems and utilize Business Intelligence tools to analyze and extract insights using reports and dashboards.
 
 This program is suitable for anyone with a passion for learning and is suitable for you whether you have a college degree or not and does not require any prior data engineering, or programming experience.
-## Applied Learning Project
-
-Each course includes numerous hands-on labs and a project to hone and apply the concepts and skills you learn. By the end of the program, you will have designed, implemented, configured, queried, and maintained numerous databases and created data pipelines using real-world tools and data repositories ​to build a portfolio of job-ready skills.
-
-You will start by provisioning a database instance on Cloud. Next, you will design databases using Entity-Relationship Diagrams (ERD) and create database objects like tables and keys using MySQL, PostgreSQL and IBM Db2.
-
-You will then become proficient with querying databases with SQL using SELECT, INSERT, UPDATE and DELETE statements, and learn to filter, sort & aggregate result sets. Next, you will become familiar with common Linux/Unix shell commands and use them to build Bash scripts.
-
-You will create Data Pipelines for batch and streaming ETL jobs using Apache Airflow and Kafka. Finally, implement data warehouses & create BI dashboards.
